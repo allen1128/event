@@ -1,6 +1,6 @@
 package com.xl.config;
 
-public enum Output {
+public enum OutputType {
     EMAIL,
     JMS
 }
